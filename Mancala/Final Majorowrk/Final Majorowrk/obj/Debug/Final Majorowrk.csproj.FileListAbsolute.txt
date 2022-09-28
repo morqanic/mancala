@@ -1,0 +1,15 @@
+C:\Users\SWAAK\Desktop\Final Majorowrk\Final Majorowrk\bin\Debug\Final Majorowrk.exe.config
+C:\Users\SWAAK\Desktop\Final Majorowrk\Final Majorowrk\bin\Debug\Final Majorowrk.exe
+C:\Users\SWAAK\Desktop\Final Majorowrk\Final Majorowrk\bin\Debug\Final Majorowrk.pdb
+C:\Users\SWAAK\Desktop\Final Majorowrk\Final Majorowrk\obj\Debug\Final_Majorowrk.GameBoard.resources
+C:\Users\SWAAK\Desktop\Final Majorowrk\Final Majorowrk\obj\Debug\Final_Majorowrk.HomePage.resources
+C:\Users\SWAAK\Desktop\Final Majorowrk\Final Majorowrk\obj\Debug\Final_Majorowrk.Properties.Resources.resources
+C:\Users\SWAAK\Desktop\Final Majorowrk\Final Majorowrk\obj\Debug\Final Majorowrk.csproj.GenerateResource.cache
+C:\Users\SWAAK\Desktop\Final Majorowrk\Final Majorowrk\obj\Debug\Final Majorowrk.exe
+C:\Users\SWAAK\Desktop\Final Majorowrk\Final Majorowrk\obj\Debug\Final Majorowrk.pdb
+C:\Users\SWAAK\Desktop\Final Majorowrk\Final Majorowrk\obj\Debug\Final_Majorowrk.GameMode.resources
+C:\Users\SWAAK\Desktop\Final Majorowrk\Final Majorowrk\obj\Debug\Final Majorowrk.csprojAssemblyReference.cache
+C:\Users\SWAAK\Desktop\Final Majorowrk\Final Majorowrk\obj\Debug\Final_Majorowrk.Winner.resources
+C:\Users\jemsw\OneDrive\Desktop\Morgan Swaak (2) (2)\Final Majorowrk\Final Majorowrk\obj\Debug\Final Majorowrk.csprojAssemblyReference.cache
+C:\Users\jemsw\OneDrive\Desktop\Morgan Swaak (2) (2)\Final Majorowrk\Final Majorowrk\obj\Debug\Final Majorowrk.exe
+C:\Users\jemsw\OneDrive\Desktop\Morgan Swaak (2) (2)\Final Majorowrk\Final Majorowrk\obj\Debug\Final Majorowrk.pdb
